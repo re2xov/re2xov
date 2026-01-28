@@ -1,9 +1,9 @@
-# 👋 Привет, я re2xov!
+# 👋 Привет, я xdxe!
 
-<a href="https://github.com/re2xov">
+<a href="https://github.com/xdxe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=re2xov&show_icons=true&theme=radical&count_private=true" />
 </a>
-<a href="https://github.com/re2xov">
+<a href="https://github.com/xdxe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re2xov&layout=compact&theme=radical&langs_count=6" />
 </a>
 
@@ -34,7 +34,7 @@
 
 ## 🚀 Обо мне
 
-- 💻 2 года некоммерческой разработки
+- 💻 3 года некоммерческой разработки
 - 🔥 Увлекаюсь коддингом и баскетболом
 - 🦀 Пишу на Rust в pet-проектах
 - 🌐 Fullstack разработчик 
@@ -43,7 +43,7 @@
 
 ## 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toky0ghouI)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xdxegit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:re2xov_dev@internet.ru)
 
 ## 💡 Интересные факты
